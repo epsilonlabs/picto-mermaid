@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mermaid
+Bundle-SymbolicName: org.eclipse.epsilon.picto.mermaid;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: org.eclipse.epsilon.picto.mermaid
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.epsilon.picto
+Export-Package: org.eclipse.epsilon.picto.mermaid
